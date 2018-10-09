@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** Morgan Holve, Gage K., Jessica T.
 
 ## Specification
 
@@ -22,9 +22,7 @@
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+I liked the example notebook, it was very helpful for seeing how the syntax needed to be inputted into Python to make it do what we wanted. Also, graphing is fun. I like graphs.
 
 ## Honor Pledge
 
@@ -35,4 +33,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Morgan Holve
