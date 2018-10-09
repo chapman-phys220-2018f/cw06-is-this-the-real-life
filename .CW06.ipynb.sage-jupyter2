@@ -1,7 +1,0 @@
-{"type":"cell","id":"124c4c","pos":1,"input":"# Our ClassWork 6\n### Morgan Holve, Gage Kizzar, Jessica Trawick\n### 2 October 2018","cell_type":"markdown"}
-{"type":"cell","id":"40b4cb","pos":4,"input":"","cell_type":"code","exec_count":0}
-{"type":"cell","id":"42b6dc","pos":2,"input":"## Particles\nHere we will create instances of three classes; Particle, Proton, Electron. We will compare their masses before assigning them momentum values.","cell_type":"markdown"}
-{"type":"cell","id":"6b4437","pos":0,"input":"import matplotlib.pyplot as plt\n%matplotlib inline\n\nplt.style.use(\"seaborn-pastel\")\n\nimport elementary","cell_type":"code","exec_count":7}
-{"type":"cell","id":"fddfcd","pos":3,"input":"# Creating a generic particle\nparticle = elementary.Particle(0,0,0)\nprint(particle.mass)\n\n#Creating a generic proton\nproton = elementary.Proton(0,0,0)\nprint(proton.mass)\n\n#Creating a generic electron\nelectron = elementary.Electron(0,0,0)\nprint(electron.mass)","output":{"0":{"name":"stdout","output_type":"stream","text":"1.0\n1.672621898e-27\n9.10938356e-31\n"}},"cell_type":"code","exec_count":10}
-{"type":"file","last_load":1539104246494}
-{"type":"settings","kernel":"anaconda5","backend_state":"running","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":74964992}}
